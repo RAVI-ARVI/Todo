@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/RAVI-ARVI/Todo/static/css/main.5707ac05.chunk.css",
-    "main.js": "/RAVI-ARVI/Todo/static/js/main.1ffb5962.chunk.js",
-    "main.js.map": "/RAVI-ARVI/Todo/static/js/main.1ffb5962.chunk.js.map",
-    "runtime-main.js": "/RAVI-ARVI/Todo/static/js/runtime-main.95fb1d42.js",
-    "runtime-main.js.map": "/RAVI-ARVI/Todo/static/js/runtime-main.95fb1d42.js.map",
-    "static/js/2.5f2af815.chunk.js": "/RAVI-ARVI/Todo/static/js/2.5f2af815.chunk.js",
-    "static/js/2.5f2af815.chunk.js.map": "/RAVI-ARVI/Todo/static/js/2.5f2af815.chunk.js.map",
-    "index.html": "/RAVI-ARVI/Todo/index.html",
-    "static/css/main.5707ac05.chunk.css.map": "/RAVI-ARVI/Todo/static/css/main.5707ac05.chunk.css.map",
-    "static/js/2.5f2af815.chunk.js.LICENSE.txt": "/RAVI-ARVI/Todo/static/js/2.5f2af815.chunk.js.LICENSE.txt",
-    "static/media/todo.975e4dd4.svg": "/RAVI-ARVI/Todo/static/media/todo.975e4dd4.svg"
+    "main.css": "/Todo/static/css/main.5707ac05.chunk.css",
+    "main.js": "/Todo/static/js/main.3d62b6d7.chunk.js",
+    "main.js.map": "/Todo/static/js/main.3d62b6d7.chunk.js.map",
+    "runtime-main.js": "/Todo/static/js/runtime-main.89c9078f.js",
+    "runtime-main.js.map": "/Todo/static/js/runtime-main.89c9078f.js.map",
+    "static/js/2.5f2af815.chunk.js": "/Todo/static/js/2.5f2af815.chunk.js",
+    "static/js/2.5f2af815.chunk.js.map": "/Todo/static/js/2.5f2af815.chunk.js.map",
+    "index.html": "/Todo/index.html",
+    "static/css/main.5707ac05.chunk.css.map": "/Todo/static/css/main.5707ac05.chunk.css.map",
+    "static/js/2.5f2af815.chunk.js.LICENSE.txt": "/Todo/static/js/2.5f2af815.chunk.js.LICENSE.txt",
+    "static/media/todo.975e4dd4.svg": "/Todo/static/media/todo.975e4dd4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.95fb1d42.js",
+    "static/js/runtime-main.89c9078f.js",
     "static/js/2.5f2af815.chunk.js",
     "static/css/main.5707ac05.chunk.css",
-    "static/js/main.1ffb5962.chunk.js"
+    "static/js/main.3d62b6d7.chunk.js"
   ]
 }
